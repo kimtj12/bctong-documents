@@ -1,0 +1,15 @@
+# Ignore everything by default
+/*
+
+# Keep git metadata file itself
+!/.gitignore
+
+# Track only docs and codex
+!/docs/
+!/docs/**
+!/codex/
+!/codex/**
+
+# OS noise
+.DS_Store
+**/.DS_Store
