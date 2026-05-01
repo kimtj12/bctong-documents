@@ -3,12 +3,17 @@
 
 # Keep git metadata file itself
 !/.gitignore
+!/.gitmodules
 
 # Track only docs and codex
 !/docs/
 !/docs/**
 !/codex/
 !/codex/**
+
+# Submodules
+!/bctalk-api
+!/bctalk-web
 
 # OS noise
 .DS_Store

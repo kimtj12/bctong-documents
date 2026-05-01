@@ -1,0 +1,8 @@
+[submodule "bctalk-api"]
+	path = bctalk-api
+	url = git@github.com:kimtj12/bctalk-api.git
+	branch = main
+[submodule "bctalk-web"]
+	path = bctalk-web
+	url = git@github.com:kimtj12/bctalk-web.git
+	branch = main
